@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/HW04_2276098_NKDY/Scenes/Scene01.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
